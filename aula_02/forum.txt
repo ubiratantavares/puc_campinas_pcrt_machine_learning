@@ -1,0 +1,37 @@
+Fórum Aula 02 - 18/08/23 - Assíncrona: A Importância do Machine Learning
+
+Este fórum de discussão se refere à Aula Assíncrona de 18/08/23. Ele ficará disponível para postagens sobre o tema proposto desde hoje, 18/08/23, às 17h, até 24/08/23, às 16h59.  
+
+Regras do Jogo:
+Serão abordados 10 tópicos emergentes no contexto de Aprendizado de Máquina:
+
+1. Escolha de um a três tópicos, realize uma pesquisa sobre estes tópicos de modo com que tenham mais informações e argumentos para uma discussão.
+
+2. Verifique se já existe tópico sobre o assunto, se não, crie um.
+3. Compartilhem suas opiniões e ideias sobre o tópico, fazendo perguntas para
+
+estimular o debate e mantendo o foco na discussão do tópico específico. Forneça recursos relevantes para cada tópico, como artigos, vídeos, pesquisas ou exemplos de casos de uso.
+
+4. Após o encerramento das discussões, reflitam sobre elas pontuando os aspectos mais importantes discutidos e as conclusões que podem ser tiradas sobre cada tópico.
+
+5. Importante! Todos os alunos devem participar, pois vale presença na aula assíncrona.
+
+Aprendizado de Máquina para sistemas autônomos: envolve o uso de modelos de aprendizado de máquina em sistemas que precisam tomar decisões em tempo real, como carros autônomos e drones. O aprendizado de máquina é usado para ajudar esses sistemas a detectar obstáculos, planejar rotas e tomar outras decisões críticas.
+
+Aprendizado de Máquina na medicina e saúde: envolve o uso de modelos de aprendizado de máquina para ajudar no diagnóstico e tratamento de doenças. Os modelos de aprendizado de máquina podem ser usados para prever resultados de pacientes, identificar padrões em grandes conjuntos de dados de saúde e desenvolver tratamentos personalizados.
+
+Privacidade e ética em Aprendizado de Máquina: envolve a discussão de questões éticas e de privacidade relacionadas ao uso de modelos de aprendizado de máquina. À medida que os modelos de ML se tornam mais onipresentes, há preocupações crescentes sobre a privacidade e a justiça na coleta e uso de dados. Aprendizado de Máquina federado: envolve o desenvolvimento de modelos de aprendizado de máquina que possam ser construídos por múltiplas partes que mantêm seus dados privados. Esse tipo de abordagem é especialmente útil em situações em que a colaboração é necessária, mas os dados são altamente confidenciais.
+
+Aprendizado de Máquina para cidades inteligentes: envolve o uso de modelos de aprendizado de máquina para ajudar a melhorar a eficiência e a segurança em áreas urbanas. Os modelos de aprendizado de máquina podem ser usados para prever congestionamentos de tráfego, identificar padrões de criminalidade e ajudar a otimizar o uso de recursos.
+
+Aprendizado de Máquina para análise de dados e previsão de mercado: envolve o uso de modelos de aprendizado de máquina para analisar grandes conjuntos de dados e prever tendências de mercado. Esses modelos podem ser usados para ajudar empresas a tomar decisões informadas sobre investimentos e estratégias de negócios.
+
+Aprendizado de Máquina para segurança cibernética: envolve o uso de modelos de aprendizado de máquina para detectar e prevenir ataques cibernéticos. À medida que a segurança cibernética se torna uma preocupação crescente, os modelos de aprendizado de máquina estão se tornando cada vez mais importantes para proteger os sistemas e os dados das empresas e indivíduos.
+
+Aprendizado de Máquina em visão computacional: envolve o uso de modelos de aprendizado de máquina para analisar e interpretar imagens e vídeos. Os modelos de visão computacional podem ser usados para reconhecer rostos, identificar objetos e animais, detectar padrões e anomalias, e muito mais.
+
+Aprendizado de Máquina em processamento de linguagem natural: envolve o uso de modelos de aprendizado de máquina para entender e gerar linguagem humana. Os modelos de processamento de linguagem natural podem ser usados para reconhecer a fala, traduzir idiomas, responder a perguntas, resumir textos e muito mais.
+
+Aprendizado de Máquina interpretável e transparente: envolve o desenvolvimento de modelos de aprendizado de máquina que sejam mais fáceis de entender e explicar. À medida que os modelos de ML se tornam cada vez mais complexos, torna-se mais difícil entender como eles tomam decisões e explicar essas decisões para outras pessoas. O aprendizado de máquina interpretável e transparente é importante para garantir que os modelos de ML sejam confiáveis, justos e aceitáveis.
+
+Este assunto foi travado 27 ago em 23:59.
